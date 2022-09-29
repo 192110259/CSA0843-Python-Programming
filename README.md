@@ -18,3 +18,18 @@ sort words in alphabatical order.python
 sum of N numbers.python
 vowels.python
 words and characters.python
+bakery.python
+maximum area.python
+maximum profit.python
+phone programme.python
+vowel.python
+stair case.python
+Mth and Nth number.python
+upper and lower cases.python
+positive and negative.python
+mirror programme.python
+triangle array.python
+N factorial.python
+first n perfect andfirst m factors.python
+online retailer.python
+pattern9
