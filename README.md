@@ -51,3 +51,11 @@ print pattern1.python
 smaller number.python
 vowels and consonants.python
 reverse number.python
+maximal.substring.python
+composite number.python
+prime and composite.python
+employee salary.python
+pow,add,sub,mul,div.python
+percentage.python
+frequency.python
+vote eligibility.python
